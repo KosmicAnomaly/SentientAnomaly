@@ -1,0 +1,65 @@
+[
+  {
+    "Module": "AtSomeone",
+    "Category": "Fun",
+    "Brief": "Mentions a random member",
+    "Description": "Recreates the @someone April Fools joke, which will mention a random member in the server. Limited to those who can mention @everyone to prevent abuse.",
+    "Commands": "Just type `@someone`!"
+  },
+  {
+    "Module": "Channel Lock",
+    "Category": "Moderation",
+    "Brief": "Locks a channel",
+    "Description": "Locks a channel until it is unlocked, which prevents members from sending messages in that channel.",
+    "Commands": "`lock`, `unlock`"
+  },
+  {
+    "Module": "ClearMessages",
+    "Category": "Moderation",
+    "Brief": "Purges messages",
+    "Description": "Mass-deletes messages from a channel.",
+    "Commands": "`purge`"
+  },
+  {
+    "Module": "CurseFilter",
+    "Category": "Filtering",
+    "Brief": "Filters curse words",
+    "Description": "A customizable filter module that will delete cuss, vulgar, or discriminatory words.",
+    "Commands": "`cursefiltertoggle`"
+  },
+  {
+    "Module": "CustomSlowmode",
+    "Category": "Utility",
+    "Brief": "Sets a custom slowmode",
+    "Description": "Sets a custom slowmode for a channel or server.",
+    "Commands": "`slowmode`"
+  },
+  {
+    "Module": "KickBan",
+    "Category": "Moderation",
+    "Brief": "Filters curse words",
+    "Description": "A customizable filter module that will delete cuss, vulgar, or discriminatory words.",
+    "Commands": "`kick`, `ban`, `unban`"
+  },
+  {
+    "Module": "ServerInfo",
+    "Category": "Utility",
+    "Brief": "Shows server information",
+    "Description": "Shows some useful information about the server.",
+    "Commands": "`serverinfo`"
+  },
+  {
+    "Module": "WhoIs",
+    "Category": "Fun",
+    "Brief": "Shows member information",
+    "Description": "Shows some useful information about a server member.",
+    "Commands": "`whois`"
+  },
+  {
+    "Module": "InviteBlocker",
+    "Category": "Filtering",
+    "Brief": "Deletes discord invites.",
+    "Description": "Deletes discord invites sent in the server. Administrators are excluded.",
+    "Commands": "N/A"
+  }
+]
